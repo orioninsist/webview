@@ -1,0 +1,4 @@
+#Fri Jun 16 08:16:54 TRT 2023
+base.0=/home/orion/orion/webview/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

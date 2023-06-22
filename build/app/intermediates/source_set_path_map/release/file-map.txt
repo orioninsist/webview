@@ -1,0 +1,14 @@
+com.orioninsist.orioninsist.webview.app-jetified-window-1.0.0-beta04-0 /home/orion/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.orioninsist.orioninsist.webview.app-jetified-annotation-experimental-1.1.0-1 /home/orion/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.orioninsist.orioninsist.webview.app-core-1.6.0-2 /home/orion/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.orioninsist.orioninsist.webview.app-jetified-window-java-1.0.0-beta04-3 /home/orion/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.orioninsist.orioninsist.webview.app-webkit-1.5.0-4 /home/orion/.gradle/caches/transforms-3/d6b63b7e37fd26410cf082b353157626/transformed/webkit-1.5.0/res
+com.orioninsist.orioninsist.webview.app-main-5 /home/orion/orion/webview/android/app/src/main/res
+com.orioninsist.orioninsist.webview.app-release-6 /home/orion/orion/webview/android/app/src/release/res
+com.orioninsist.orioninsist.webview.app-pngs-7 /home/orion/orion/webview/build/app/generated/res/pngs/release
+com.orioninsist.orioninsist.webview.app-resValues-8 /home/orion/orion/webview/build/app/generated/res/resValues/release
+com.orioninsist.orioninsist.webview.app-rs-9 /home/orion/orion/webview/build/app/generated/res/rs/release
+com.orioninsist.orioninsist.webview.app-mergeReleaseResources-10 /home/orion/orion/webview/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.orioninsist.orioninsist.webview.app-mergeReleaseResources-11 /home/orion/orion/webview/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.orioninsist.orioninsist.webview.app-merged_res-12 /home/orion/orion/webview/build/app/intermediates/merged_res/release
+com.orioninsist.orioninsist.webview.app-packaged_res-13 /home/orion/orion/webview/build/webview_flutter_android/intermediates/packaged_res/release
