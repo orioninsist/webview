@@ -1,3 +1,5 @@
+dataset/
+dataset/*
 # Compiled class file
 *.class
 
